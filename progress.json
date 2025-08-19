@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755585895.026465,
+    "completed_at": 1755585896.30181,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755586292.24111,
+    "completed_at": 1755586293.571823,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755583583.224878,
+    "completed_at": 1755583583.739377,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755585326.782628,
+    "completed_at": 1755585327.232743,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755532253.79855,
+    "completed_at": 1755532253.837097,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
