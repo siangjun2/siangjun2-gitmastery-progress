@@ -126,5 +126,14 @@
       "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755764840.081,
+    "completed_at": 1755764847.541692,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
   }
 ]
